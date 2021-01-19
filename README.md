@@ -63,11 +63,10 @@
 </b> 
 </p>
 <strong></strong> 
-<p><img src="https://www.sxotu.xyz/i/2021/01/16/sk8yjp.png" />
-<img src="https://www.sxotu.xyz/i/2021/01/16/skasmi.png" />
+<p>
 <img src="https://www.sxotu.xyz/i/2021/01/16/skbiy8.png" />
 
-	<br />
+	
 </p>
 <p style="color:#24292E;font-family:-apple-system, BlinkMacSystemFont, &quot;font-size:16px;background-color:#FFFFFF;">
 	<span style="font-size:14px;"></span> 
